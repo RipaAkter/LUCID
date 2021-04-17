@@ -12,7 +12,7 @@ header{
 }
 .nav-link{
 	color:white !important;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 600;
 	font-size:14px;
 
@@ -75,11 +75,17 @@ header{
 	border-radius: 4px;
 	color:white;
 	text-transform: uppercase;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: bold;
 }
 .btn1 {
 	background-color:#008ed6 !important ;
 	border:1px solid #008ed6;
 
+}
+.banner-btn button:hover{
+	background: linear-gradient( to right, #27dbe9,#e3e67d);
+	color:black;
 }
 .features{
 	background-color: white;
@@ -92,9 +98,10 @@ header{
 }
 .features-text h6{
 	color:#008ed6;
-	font-weight: 600;
+	font-weight: bold;
 	text-transform: uppercase;
 	font-family: 'Source Sans Pro', sans-serif;
+	letter-spacing: 2px;
 }
 .title1{
 	text-align: center;
@@ -114,6 +121,7 @@ header{
 	font-size:24px;
 
 }
+
 .features-1 h3{
 	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 600;
@@ -140,10 +148,11 @@ header{
 }
 .features2-text h6{
 	color:#008ed6;
-	font-weight: 600;
+	font-weight: bold;
 	text-transform: uppercase;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 14px;
+	letter-spacing: 2px;
 }
 .features2-text h1{
 	
@@ -184,13 +193,15 @@ header{
 	font-size: 16px;
 	color:#a7a7a7;
 	margin-top: 15px;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 .left-text h6{
 	color:#008ed6;
-	font-weight: 600;
+	font-weight: bold;
 	text-transform: uppercase;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 14px;
+	letter-spacing: 2px;
 }
 .left-text h1{
 
